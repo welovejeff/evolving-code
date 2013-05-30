@@ -1,5 +1,5 @@
 # Evolving Code
-Evolving code is an experiment in progromatic art whereby we start with a simple [processing](http://processing.org) and _tag_ the next person who is suppose to make an alteration.
+Evolving code is an experiment in progromatic art whereby we start with a simple [processing](http://processing.org) sketch and _tag_ the next person who is suppose to make an alteration.
 
 That person will then have 24 hours to make any alteration to the code they want, even if it's simply a variable change, and do a pull-request. In their pull-request, they will need to tag the next person who has forked the repo (no tag backs) and so on.
 
