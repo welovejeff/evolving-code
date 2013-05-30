@@ -9,3 +9,6 @@ First thing to do is fork this repo. After that, it's just a matter of waiting f
 If you're new to working with forks, check out [this page](https://help.github.com/articles/fork-a-repo) for help.
 
 And if you're completely new to git, then go through [this tutorial](http://try.github.io/) in its entirety.
+
+### What you need
+Make sure you have the [latest build of processing](http://processing.org/download/).
