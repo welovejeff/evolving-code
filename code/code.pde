@@ -28,3 +28,11 @@ void draw(){
   //draw the circle
   ellipse(random(width), random(height), diameter, diameter);
 }
+
+  //pause sketch by holding down anykey
+void keyPressed(){
+  noLoop();
+}
+void keyReleased(){
+  loop();
+}
